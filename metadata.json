@@ -1,0 +1,5 @@
+{
+  "name": "ToolKit",
+  "description": "A scalable frontend-only web application for managing multiple utility tools, starting with a Dew Point Calculator.",
+  "requestFramePermissions": []
+}
