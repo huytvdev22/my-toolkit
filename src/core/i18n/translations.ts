@@ -20,6 +20,16 @@ export const translations = {
     invalidHumidity: "Độ ẩm không hợp lệ (phải từ 0 đến 100)",
     calculatedDewPoint: "Điểm Sương Tính Toán",
     
+    // Condensation Humidity
+    condensationMode: "Tính Độ Ẩm Tạo Sương",
+    standardMode: "Tính Điểm Sương Chuẩn",
+    surfaceTemp: "Nhiệt độ bề mặt (°C)",
+    airTemp: "Nhiệt độ không khí (°C)",
+    criticalHumidity: "Độ ẩm tới hạn để tạo sương",
+    criticalHumidityDesc: "Độ ẩm tương đối tối thiểu để sương bắt đầu hình thành trên bề mặt.",
+    invalidSurfaceTemp: "Nhiệt độ bề mặt không hợp lệ",
+    invalidAirTemp: "Nhiệt độ không khí không hợp lệ",
+    
     // Keywords
     kw_dew: "sương",
     kw_point: "điểm",
@@ -48,6 +58,16 @@ export const translations = {
     invalidTemp: "Invalid temperature",
     invalidHumidity: "Invalid humidity (must be between 0 and 100)",
     calculatedDewPoint: "Calculated Dew Point",
+    
+    // Condensation Humidity
+    condensationMode: "Condensation Humidity Mode",
+    standardMode: "Standard Dew Point Mode",
+    surfaceTemp: "Surface Temperature (°C)",
+    airTemp: "Air Temperature (°C)",
+    criticalHumidity: "Critical Humidity for Dew",
+    criticalHumidityDesc: "The minimum relative humidity required for dew to start forming on the surface.",
+    invalidSurfaceTemp: "Invalid surface temperature",
+    invalidAirTemp: "Invalid air temperature",
     
     // Keywords
     kw_dew: "dew",
